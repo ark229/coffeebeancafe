@@ -1,2 +1,2 @@
-# The Coffee Bean Cafe
+# The Coffee Bean
 Website for The Coffee Bean Cafe
